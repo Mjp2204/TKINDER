@@ -1,0 +1,5 @@
+focus es para capturar los eventos de el codigo
+frame es el que va a contener los objetos y no la ventana
+threading es un hilo para que se de una realizacion automatica
+trabaja con un proceso automatico se pone en marcha cuando yo la llame
+callback es cuando se manda a cerrar la interfaz
